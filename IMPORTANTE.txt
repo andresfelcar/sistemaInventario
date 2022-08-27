@@ -1,0 +1,19 @@
+Instalacion
+
+1) Crear base de datos
+2) Configurar la conexion con MySQL
+
+	Abrir el fichero:
+        modelos/conexion.php
+
+Se debe de modificar las credenciales MySQL, es decir usuario y contraseña.
+
+
+PASOS PARA ACTIVAR LIBRERIA GD (Para las imagenes)
+
+A) Ir al archivo php.ini
+B) Buscar ;extension=gd
+C) Quitar ; y reiniciar el servidor
+
+
+Saludos cordiales
